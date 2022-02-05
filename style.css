@@ -1,0 +1,35 @@
+h1{
+    color:#ffc0cb:
+}
+*{
+    border: solid;
+}
+
+.header{
+
+    background-color:#ff00;
+    color:#ffc0cb;
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.item{
+    background-color: #bee4;
+   color:#000;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.gride{
+    background-color:#ffebcd;
+    color: #15126126;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+    
+}
